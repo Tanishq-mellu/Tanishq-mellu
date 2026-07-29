@@ -24,3 +24,14 @@
 [![](https://visitcount.itsvg.in/api?id=Tanishq-mellu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Hi, I'm Tanishq.
+
+Research Interests
+• Quantum Cryptography
+• Secure Systems
+• Open Source Security
+
+Current Work
+• ICUR Research Paper
+• Quantum Cybersecurity Project
+• OWASP Nest Contributions
